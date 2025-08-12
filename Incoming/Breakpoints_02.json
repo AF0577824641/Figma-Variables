@@ -1,0 +1,108 @@
+{
+    "id": "VariableCollectionId:999:00001",
+    "name": "Breakpoint Demo",
+    "modes": {
+      "999:0": "Desktop",
+      "999:1": "Mobile",
+      "999:2": "Tablet"
+    },
+    "variableIds": [],
+    "variables": [
+      {
+        "id": "VariableID:999:00049",
+        "name": "Margins/Left/Small",
+        "description": "",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "999:0": 4,
+          "999:1": 4,
+          "999:2": 4
+        },
+        "resolvedValuesByMode": {
+          "999:0": {"resolvedValue": 4, "alias": null},
+          "999:1": {"resolvedValue": 4, "alias": null},
+          "999:2": {"resolvedValue": 4, "alias": null}
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:999:00050",
+        "name": "Margins/Left/Medium",
+        "description": "",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "999:0": 8,
+          "999:1": 8,
+          "999:2": 8
+        },
+        "resolvedValuesByMode": {
+          "999:0": {"resolvedValue": 8, "alias": null},
+          "999:1": {"resolvedValue": 8, "alias": null},
+          "999:2": {"resolvedValue": 8, "alias": null}
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:999:00051",
+        "name": "Margins/Left/Large",
+        "description": "",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "999:0": 16,
+          "999:1": 16,
+          "999:2": 16
+        },
+        "resolvedValuesByMode": {
+          "999:0": {"resolvedValue": 16, "alias": null},
+          "999:1": {"resolvedValue": 16, "alias": null},
+          "999:2": {"resolvedValue": 16, "alias": null}
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:999:00052",
+        "name": "Margins/Right/Small",
+        "description": "",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "999:0": 4,
+          "999:1": 4,
+          "999:2": 4
+        },
+        "resolvedValuesByMode": {
+          "999:0": {"resolvedValue": 4, "alias": null},
+          "999:1": {"resolvedValue": 4, "alias": null},
+          "999:2": {"resolvedValue": 4, "alias": null}
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:999:00053",
+        "name": "Margins/Right/Medium",
+        "description": "",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "999:0": 8,
+          "999:1": 8,
+          "999:2": 8
+        },
+        "resolvedValuesByMode": {
+          "999:0": {"resolvedValue": 8, "alias": null},
+          "999:1": {"resolvedValue": 8, "alias": null},
+          "999:2": {"resolvedValue": 8, "alias": null}
+        },
+        "scopes": ["ALL_SCOPES"],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      }
+    ]
+  }
+  

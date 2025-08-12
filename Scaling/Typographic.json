@@ -1,0 +1,326 @@
+{
+  "id": "VariableCollectionId:T:0500",
+  "name": "Typographic (1.333x) (Fixed for Figma)",
+  "modes": {
+    "26090:0": "Typographic (1.333x)"
+  },
+  "variableIds": [
+    "VariableID:T:0",
+    "VariableID:T:1",
+    "VariableID:T:2",
+    "VariableID:T:3",
+    "VariableID:T:4",
+    "VariableID:T:5",
+    "VariableID:T:6",
+    "VariableID:T:7",
+    "VariableID:T:8",
+    "VariableID:T:9",
+    "VariableID:T:10",
+    "VariableID:T:11",
+    "VariableID:T:12",
+    "VariableID:T:13",
+    "VariableID:T:14"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:T:0",
+      "name": "T\u2070 (8.0px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 8.0
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 8.0,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:1",
+      "name": "T\u00b9 (10.66px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 10.66
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 10.66,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:2",
+      "name": "T\u00b2 (14.22px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 14.22
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 14.22,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:3",
+      "name": "T\u00b3 (18.95px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 18.95
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 18.95,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:4",
+      "name": "T\u2074 (25.26px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 25.26
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 25.26,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:5",
+      "name": "T\u2075 (33.67px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 33.67
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 33.67,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:6",
+      "name": "T\u2076 (44.88px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 44.88
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 44.88,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:7",
+      "name": "T\u2077 (59.83px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 59.83
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 59.83,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:8",
+      "name": "T\u2078 (79.75px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 79.75
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 79.75,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:9",
+      "name": "T\u2079 (106.31px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 106.31
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 106.31,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:10",
+      "name": "T\u00b9\u2070 (141.71px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 141.71
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 141.71,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:11",
+      "name": "T\u00b9\u00b9 (188.9px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 188.9
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 188.9,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:12",
+      "name": "T\u00b9\u00b2 (251.8px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 251.8
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 251.8,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:13",
+      "name": "T\u00b9\u00b3 (335.65px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 335.65
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 335.65,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:T:14",
+      "name": "T\u00b9\u2074 (447.42px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 447.42
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 447.42,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

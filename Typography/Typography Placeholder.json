@@ -1,0 +1,157 @@
+{
+  "id": "VariableCollectionId:8000:1",
+  "name": "Typography Placeholder",
+  "modes": {
+    "8000:2": "Mode 1"
+  },
+  "variableIds": [
+    "VariableID:8000:3", "VariableID:8000:4", "VariableID:8000:5", "VariableID:8000:6",
+    "VariableID:8000:7", "VariableID:8000:8", "VariableID:8000:9", "VariableID:8000:10"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:8000:3",
+      "name": "Placeholder/Heading1",
+      "description": "Placeholder text for Heading 1",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:8000:4",
+      "name": "Placeholder/Heading2",
+      "description": "Placeholder text for Heading 2",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:8000:5",
+      "name": "Placeholder/Body",
+      "description": "Placeholder text for body content",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:8000:6",
+      "name": "Placeholder/Label",
+      "description": "Placeholder text for labels",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:8000:7",
+      "name": "Placeholder/Button",
+      "description": "Placeholder text for buttons",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "Click me"
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "Click me",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:8000:8",
+      "name": "Placeholder/Icon",
+      "description": "Placeholder text for icons",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "Icon"
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "Icon",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:8000:9",
+      "name": "Placeholder/Footer",
+      "description": "Placeholder text for footer",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "© 2024 Company Name. All rights reserved."
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "© 2024 Company Name. All rights reserved.",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:8000:10",
+      "name": "Placeholder/Nav",
+      "description": "Placeholder text for navigation links",
+      "type": "STRING",
+      "valuesByMode": {
+        "8000:2": "Home | About | Services | Contact"
+      },
+      "resolvedValuesByMode": {
+        "8000:2": {
+          "resolvedValue": "Home | About | Services | Contact",
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": true,
+      "codeSyntax": {}
+    }
+  ]
+}

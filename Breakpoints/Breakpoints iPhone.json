@@ -1,0 +1,158 @@
+{
+  "id": "VariableCollectionId:10001:100001",
+  "name": "Breakpoints iPhone",
+  "modes": {
+    "10001:1": "iPhone 14 Pro (430px)",
+    "10001:2": "iPhone 12 (390px)",
+    "10001:3": "iPhone 13 (390px)"
+  },
+  "variableIds": [
+    "VariableID:10001:100002",
+    "VariableID:10001:100003",
+    "VariableID:10001:100004",
+    "VariableID:10001:100005",
+    "VariableID:10001:100006"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:10001:100002",
+      "name": "Grid/Gutter",
+      "description": "Gutter size for grids",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "10001:1": 16,
+        "10001:2": 16,
+        "10001:3": 16
+      },
+      "resolvedValuesByMode": {
+        "10001:1": {
+          "resolvedValue": 16,
+          "alias": null
+        },
+        "10001:2": {
+          "resolvedValue": 16,
+          "alias": null
+        },
+        "10001:3": {
+          "resolvedValue": 16,
+          "alias": null
+        }
+      },
+      "scopes": [],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:10001:100003",
+      "name": "Grid/Columns",
+      "description": "Number of columns in the grid",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "10001:1": 4,
+        "10001:2": 4,
+        "10001:3": 4
+      },
+      "resolvedValuesByMode": {
+        "10001:1": {
+          "resolvedValue": 4,
+          "alias": null
+        },
+        "10001:2": {
+          "resolvedValue": 4,
+          "alias": null
+        },
+        "10001:3": {
+          "resolvedValue": 4,
+          "alias": null
+        }
+      },
+      "scopes": [],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:10001:100004",
+      "name": "Grid/Left End Margin",
+      "description": "Left margin for grids",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "10001:1": 16,
+        "10001:2": 16,
+        "10001:3": 16
+      },
+      "resolvedValuesByMode": {
+        "10001:1": {
+          "resolvedValue": 16,
+          "alias": null
+        },
+        "10001:2": {
+          "resolvedValue": 16,
+          "alias": null
+        },
+        "10001:3": {
+          "resolvedValue": 16,
+          "alias": null
+        }
+      },
+      "scopes": [],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:10001:100005",
+      "name": "Grid/Right End Margin",
+      "description": "Right margin for grids",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "10001:1": 16,
+        "10001:2": 16,
+        "10001:3": 16
+      },
+      "resolvedValuesByMode": {
+        "10001:1": {
+          "resolvedValue": 16,
+          "alias": null
+        },
+        "10001:2": {
+          "resolvedValue": 16,
+          "alias": null
+        },
+        "10001:3": {
+          "resolvedValue": 16,
+          "alias": null
+        }
+      },
+      "scopes": [],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:10001:100006",
+      "name": "Grid/Column Width",
+      "description": "Width of columns in the grid",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "10001:1": 82,
+        "10001:2": 84,
+        "10001:3": 84
+      },
+      "resolvedValuesByMode": {
+        "10001:1": {
+          "resolvedValue": 82,
+          "alias": null
+        },
+        "10001:2": {
+          "resolvedValue": 84,
+          "alias": null
+        },
+        "10001:3": {
+          "resolvedValue": 84,
+          "alias": null
+        }
+      },
+      "scopes": [],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "VariableCollectionId:B2:0500",
+  "name": "Base-2 (Binary) (Prefix Superscript Naming)",
+  "modes": {
+    "26090:0": "Base-2 (Binary)"
+  },
+  "variableIds": [
+    "VariableID:B2:0",
+    "VariableID:B2:1",
+    "VariableID:B2:2",
+    "VariableID:B2:3",
+    "VariableID:B2:4",
+    "VariableID:B2:5",
+    "VariableID:B2:6",
+    "VariableID:B2:7"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:B2:0",
+      "name": "B2\u2070 (2px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 2
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 2,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:B2:1",
+      "name": "B2\u00b9 (4px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 4
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 4,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:B2:2",
+      "name": "B2\u00b2 (8px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 8
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 8,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:B2:3",
+      "name": "B2\u00b3 (16px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 16
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 16,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:B2:4",
+      "name": "B2\u2074 (32px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 32
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 32,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:B2:5",
+      "name": "B2\u2075 (64px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 64
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 64,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:B2:6",
+      "name": "B2\u2076 (128px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 128
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 128,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:B2:7",
+      "name": "B2\u2077 (256px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 256
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 256,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

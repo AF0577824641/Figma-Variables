@@ -1,0 +1,137 @@
+{
+  "id": "VariableCollectionId:G:0500",
+  "name": "Geometric (x2) (Prefix Superscript Naming)",
+  "modes": {
+    "26090:0": "Geometric (x2)"
+  },
+  "variableIds": [
+    "VariableID:G:0",
+    "VariableID:G:1",
+    "VariableID:G:2",
+    "VariableID:G:3",
+    "VariableID:G:4",
+    "VariableID:G:5"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:G:0",
+      "name": "G\u2070 (8px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 8
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 8,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:G:1",
+      "name": "G\u00b9 (16px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 16
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 16,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:G:2",
+      "name": "G\u00b2 (32px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 32
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 32,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:G:3",
+      "name": "G\u00b3 (64px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 64
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 64,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:G:4",
+      "name": "G\u2074 (128px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 128
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 128,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:G:5",
+      "name": "G\u2075 (256px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 256
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 256,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

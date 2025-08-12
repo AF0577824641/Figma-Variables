@@ -1,0 +1,133 @@
+{
+    "id": "VariableCollectionId:30001:300001",
+    "name": "Breakpoints Email Design",
+    "modes": {
+      "30001:1": "Web (600px)",
+      "30001:2": "Mobile (325px)"
+    },
+    "variableIds": [
+      "VariableID:30001:300002",
+      "VariableID:30001:300003",
+      "VariableID:30001:300004",
+      "VariableID:30001:300005",
+      "VariableID:30001:300006"
+    ],
+    "variables": [
+      {
+        "id": "VariableID:30001:300002",
+        "name": "Grid/Gutter",
+        "description": "Gutter size for grids",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "30001:1": 20,
+          "30001:2": 16
+        },
+        "resolvedValuesByMode": {
+          "30001:1": {
+            "resolvedValue": 20,
+            "alias": null
+          },
+          "30001:2": {
+            "resolvedValue": 16,
+            "alias": null
+          }
+        },
+        "scopes": [],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:30001:300003",
+        "name": "Grid/Columns",
+        "description": "Number of columns in the grid",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "30001:1": 1,
+          "30001:2": 1
+        },
+        "resolvedValuesByMode": {
+          "30001:1": {
+            "resolvedValue": 1,
+            "alias": null
+          },
+          "30001:2": {
+            "resolvedValue": 1,
+            "alias": null
+          }
+        },
+        "scopes": [],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:30001:300004",
+        "name": "Grid/Left End Margin",
+        "description": "Left margin for grids",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "30001:1": 16,
+          "30001:2": 16
+        },
+        "resolvedValuesByMode": {
+          "30001:1": {
+            "resolvedValue": 16,
+            "alias": null
+          },
+          "30001:2": {
+            "resolvedValue": 16,
+            "alias": null
+          }
+        },
+        "scopes": [],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:30001:300005",
+        "name": "Grid/Right End Margin",
+        "description": "Right margin for grids",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "30001:1": 16,
+          "30001:2": 16
+        },
+        "resolvedValuesByMode": {
+          "30001:1": {
+            "resolvedValue": 16,
+            "alias": null
+          },
+          "30001:2": {
+            "resolvedValue": 16,
+            "alias": null
+          }
+        },
+        "scopes": [],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      },
+      {
+        "id": "VariableID:30001:300006",
+        "name": "Grid/Column Width",
+        "description": "Width of columns in the grid",
+        "type": "FLOAT",
+        "valuesByMode": {
+          "30001:1": 568,
+          "30001:2": 293
+        },
+        "resolvedValuesByMode": {
+          "30001:1": {
+            "resolvedValue": 568,
+            "alias": null
+          },
+          "30001:2": {
+            "resolvedValue": 293,
+            "alias": null
+          }
+        },
+        "scopes": [],
+        "hiddenFromPublishing": false,
+        "codeSyntax": {}
+      }
+    ]
+  }
+  

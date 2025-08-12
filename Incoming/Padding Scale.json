@@ -1,0 +1,244 @@
+{
+  "id": "VariableCollectionId:1000:00001",
+  "name": "Padding",
+  "modes": {
+    "1000:0": "Default"
+  },
+  "variableIds": [],
+  "variables": [
+    {
+      "id": "VariableID:1000:00002",
+      "name": "Padding/4px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 4
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 4,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00003",
+      "name": "Padding/8px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 8
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 8,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00004",
+      "name": "Padding/12px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 12
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 12,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00005",
+      "name": "Padding/16px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 16
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 16,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00006",
+      "name": "Padding/20px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 20
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 20,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00007",
+      "name": "Padding/24px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 24
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 24,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00008",
+      "name": "Padding/32px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 32
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 32,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00009",
+      "name": "Padding/40px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 40
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 40,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00010",
+      "name": "Padding/48px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 48
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 48,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00011",
+      "name": "Padding/56px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 56
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 56,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00012",
+      "name": "Padding/64px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 64
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 64,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00013",
+      "name": "Padding/80px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 80
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 80,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1000:00014",
+      "name": "Padding/100px",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "1000:0": 100
+      },
+      "resolvedValuesByMode": {
+        "1000:0": {
+          "resolvedValue": 100,
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

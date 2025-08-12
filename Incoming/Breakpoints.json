@@ -1,0 +1,3484 @@
+{
+	"id": "VariableCollectionId:764:248",
+	"name": "Breakpoints",
+	"modes": {
+		"764:2": "SM (320px)",
+		"764:3": "MD (672px)",
+		"764:4": "LG - XL (1056px - 1312px)",
+		"764:5": "Max - Max plus (1584px - 1784px))"
+	},
+	"variableIds": ["VariableID:764:249", "VariableID:764:250", "VariableID:764:251", "VariableID:764:252", "VariableID:764:253", "VariableID:764:254", "VariableID:764:255", "VariableID:764:256", "VariableID:764:257", "VariableID:764:258", "VariableID:764:259", "VariableID:764:260", "VariableID:764:261", "VariableID:764:262", "VariableID:764:263", "VariableID:764:264", "VariableID:764:265", "VariableID:764:266", "VariableID:764:267", "VariableID:764:268", "VariableID:764:269", "VariableID:764:270", "VariableID:764:271", "VariableID:764:272", "VariableID:764:273", "VariableID:764:274", "VariableID:764:275", "VariableID:764:276", "VariableID:764:277", "VariableID:764:278", "VariableID:764:279", "VariableID:764:280", "VariableID:764:281", "VariableID:764:282", "VariableID:764:283", "VariableID:764:284", "VariableID:764:285", "VariableID:764:286", "VariableID:764:287", "VariableID:764:288", "VariableID:764:289", "VariableID:764:290", "VariableID:764:291", "VariableID:764:292", "VariableID:764:293", "VariableID:764:294", "VariableID:764:295", "VariableID:764:296", "VariableID:764:297", "VariableID:764:298", "VariableID:764:299", "VariableID:764:300", "VariableID:764:301", "VariableID:764:302", "VariableID:764:303", "VariableID:764:304", "VariableID:764:305", "VariableID:764:306", "VariableID:764:307", "VariableID:764:308", "VariableID:764:309", "VariableID:764:310", "VariableID:764:311", "VariableID:764:312", "VariableID:764:313", "VariableID:764:314", "VariableID:764:315", "VariableID:764:316", "VariableID:764:317", "VariableID:764:318", "VariableID:764:319", "VariableID:764:320", "VariableID:764:321", "VariableID:764:322", "VariableID:764:323", "VariableID:764:324", "VariableID:764:325", "VariableID:764:326", "VariableID:764:327", "VariableID:764:328", "VariableID:764:329", "VariableID:764:330", "VariableID:764:331", "VariableID:764:332", "VariableID:764:333", "VariableID:764:334", "VariableID:764:335", "VariableID:764:336", "VariableID:764:337", "VariableID:764:338", "VariableID:764:339", "VariableID:764:340", "VariableID:764:341", "VariableID:764:342", "VariableID:764:343", "VariableID:764:344", "VariableID:764:345", "VariableID:764:346", "VariableID:764:347", "VariableID:764:348", "VariableID:764:349", "VariableID:764:350", "VariableID:764:351", "VariableID:764:352", "VariableID:764:353", "VariableID:764:354", "VariableID:764:355"],
+	"variables": [{
+		"id": "VariableID:764:249",
+		"name": "Wide grid/Gutter",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 32,
+			"764:3": 32,
+			"764:4": 32,
+			"764:5": 32
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 32,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:250",
+		"name": "Wide grid/Left end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 16,
+			"764:3": 32,
+			"764:4": 32,
+			"764:5": 40
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 40,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:251",
+		"name": "Wide grid/Right end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 16,
+			"764:3": 32,
+			"764:4": 32,
+			"764:5": 40
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 40,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:252",
+		"name": "Wide grid/Columns",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 4,
+			"764:3": 8,
+			"764:4": 16,
+			"764:5": 16
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 4,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 8,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 16,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:253",
+		"name": "Narrow grid/Gutter",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 16,
+			"764:3": 16,
+			"764:4": 16,
+			"764:5": 16
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 16,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:254",
+		"name": "Narrow grid/Left end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 16,
+			"764:4": 16,
+			"764:5": 24
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 24,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:255",
+		"name": "Narrow grid/Right end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 16,
+			"764:3": 32,
+			"764:4": 32,
+			"764:5": 40
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 40,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:256",
+		"name": "Narrow grid/Columns",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 4,
+			"764:3": 8,
+			"764:4": 16,
+			"764:5": 16
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 4,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 8,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 16,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:257",
+		"name": "Condensed grid/Gutter",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:258",
+		"name": "Condensed grid/Left end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 16,
+			"764:4": 16,
+			"764:5": 24
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 24,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:259",
+		"name": "Condensed grid/Right end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 16,
+			"764:4": 16,
+			"764:5": 24
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 24,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:260",
+		"name": "Condensed grid/Column count",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 4,
+			"764:3": 8,
+			"764:4": 16,
+			"764:5": 16
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 4,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 8,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 16,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:261",
+		"name": "Wide grid/4 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 288,
+			"764:3": 288,
+			"764:4": 224,
+			"764:5": 352
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 352,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:262",
+		"name": "Wide grid/4 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 288,
+			"764:3": 288,
+			"764:4": 356,
+			"764:5": 402
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 356,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 402,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:263",
+		"name": "Narrow grid/2 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 64,
+			"764:3": 144,
+			"764:4": 112,
+			"764:5": 176
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 64,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 144,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 112,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 176,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:264",
+		"name": "Narrow grid/2 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 64,
+			"764:3": 144,
+			"764:4": 112,
+			"764:5": 176
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 64,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 144,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 112,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 176,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:265",
+		"name": "Condensed grid/2 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 80,
+			"764:3": 160,
+			"764:4": 128,
+			"764:5": 192
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 80,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 160,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 128,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 192,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:266",
+		"name": "Condensed grid/2 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 80,
+			"764:3": 160,
+			"764:4": 128,
+			"764:5": 192
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 80,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 160,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 128,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 192,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:267",
+		"name": "Wide grid/2 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 48,
+			"764:3": 128,
+			"764:4": 96,
+			"764:5": 160
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 48,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 128,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 96,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 160,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:268",
+		"name": "Wide grid/2 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 48,
+			"764:3": 128,
+			"764:4": 162,
+			"764:5": 185
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 48,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 128,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 162,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 185,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:269",
+		"name": "Wide grid/6 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 208,
+			"764:3": 448,
+			"764:4": 352,
+			"764:5": 544
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 208,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 448,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 352,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 544,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:270",
+		"name": "Wide grid/6 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 208,
+			"764:3": 448,
+			"764:4": 550,
+			"764:5": 619
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 208,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 448,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 550,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 619,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:271",
+		"name": "Wide grid/8 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 288,
+			"764:3": 608,
+			"764:4": 480,
+			"764:5": 736
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 608,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 480,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 736,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:272",
+		"name": "Wide grid/8 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 288,
+			"764:3": 608,
+			"764:4": 744,
+			"764:5": 836
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 608,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 744,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 836,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:273",
+		"name": "Narrow grid/4 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 304,
+			"764:3": 304,
+			"764:4": 240,
+			"764:5": 368
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 368,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:274",
+		"name": "Narrow grid/4 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 304,
+			"764:3": 304,
+			"764:4": 240,
+			"764:5": 368
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 368,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:275",
+		"name": "Narrow grid/6 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 224,
+			"764:3": 464,
+			"764:4": 368,
+			"764:5": 560
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 464,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 368,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 560,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:276",
+		"name": "Narrow grid/6 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 224,
+			"764:3": 464,
+			"764:4": 368,
+			"764:5": 560
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 464,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 368,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 560,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:277",
+		"name": "Narrow grid/8 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 304,
+			"764:3": 624,
+			"764:4": 496,
+			"764:5": 752
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 624,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 496,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 752,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:278",
+		"name": "Narrow grid/8 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 304,
+			"764:3": 624,
+			"764:4": 496,
+			"764:5": 752
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 624,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 496,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 752,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:279",
+		"name": "Condensed grid/4 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 320,
+			"764:4": 256,
+			"764:5": 384
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 384,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:280",
+		"name": "Condensed grid/4 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 320,
+			"764:4": 256,
+			"764:5": 384
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 384,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:281",
+		"name": "Condensed grid/6 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 240,
+			"764:3": 480,
+			"764:4": 384,
+			"764:5": 576
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 480,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 384,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 576,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:282",
+		"name": "Condensed grid/6 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 240,
+			"764:3": 480,
+			"764:4": 384,
+			"764:5": 576
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 480,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 384,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 576,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:283",
+		"name": "Condensed grid/8 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 640,
+			"764:4": 512,
+			"764:5": 768
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 640,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 512,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 768,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:284",
+		"name": "Condensed grid/8 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 640,
+			"764:4": 512,
+			"764:5": 768
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 640,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 512,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 768,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:285",
+		"name": "Nested grid/Gutter",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:286",
+		"name": "Nested grid/Left end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:287",
+		"name": "Nested grid/Right end-margin",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:288",
+		"name": "Nested grid/Column count",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 4,
+			"764:3": 8,
+			"764:4": 16,
+			"764:5": 16
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 4,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 8,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 16,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:289",
+		"name": "Nested grid/2 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 56,
+			"764:3": 144,
+			"764:4": 104,
+			"764:5": 170
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 56,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 144,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 104,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 170,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:290",
+		"name": "Nested grid/2 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 56,
+			"764:3": 144,
+			"764:4": 104,
+			"764:5": 170
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 56,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 144,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 104,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 170,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:291",
+		"name": "Nested grid/4 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 144,
+			"764:3": 320,
+			"764:4": 240,
+			"764:5": 372
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 144,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 372,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:292",
+		"name": "Nested grid/4 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 144,
+			"764:3": 320,
+			"764:4": 240,
+			"764:5": 372
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 144,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 372,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:293",
+		"name": "Nested grid/6 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 232,
+			"764:3": 496,
+			"764:4": 376,
+			"764:5": 574
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 232,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 496,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 376,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 574,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:294",
+		"name": "Nested grid/6 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 232,
+			"764:3": 496,
+			"764:4": 376,
+			"764:5": 574
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 232,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 496,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 376,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 574,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:295",
+		"name": "Nested grid/8 column min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 672,
+			"764:4": 512,
+			"764:5": 776
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 672,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 512,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 776,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:296",
+		"name": "Nested grid/8 column max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 672,
+			"764:4": 512,
+			"764:5": 776
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 672,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 512,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 776,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:297",
+		"name": "Viewport size",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 672,
+			"764:4": 1056,
+			"764:5": 1584
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 672,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 1056,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 1584,
+				"alias": null
+			}
+		},
+		"scopes": ["WIDTH_HEIGHT"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:298",
+		"name": "Aside left min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 256,
+			"764:3": 256,
+			"764:4": 320,
+			"764:5": 392
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 392,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:299",
+		"name": "Aside right min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 256,
+			"764:3": 256,
+			"764:4": 320,
+			"764:5": 392
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 392,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:300",
+		"name": "Wide grid/2 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 48,
+			"764:3": 128,
+			"764:4": 96,
+			"764:5": 160
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 48,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 128,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 96,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 160,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:301",
+		"name": "Wide grid/4 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 288,
+			"764:3": 288,
+			"764:4": 224,
+			"764:5": 352
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 352,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:302",
+		"name": "Wide grid/6 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 208,
+			"764:3": 448,
+			"764:4": 352,
+			"764:5": 544
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 208,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 448,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 352,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 544,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:303",
+		"name": "Wide grid/8 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 288,
+			"764:3": 608,
+			"764:4": 480,
+			"764:5": 736
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 608,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 480,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 736,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:304",
+		"name": "Wide grid/12 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 288,
+			"764:3": 448,
+			"764:4": 736,
+			"764:5": 1120
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 448,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 736,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 1120,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:305",
+		"name": "Narrow grid/2 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 64,
+			"764:3": 144,
+			"764:4": 112,
+			"764:5": 176
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 64,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 144,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 112,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 176,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:306",
+		"name": "Narrow grid/4 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 304,
+			"764:3": 304,
+			"764:4": 240,
+			"764:5": 368
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 368,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:307",
+		"name": "Narrow grid/6 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 224,
+			"764:3": 464,
+			"764:4": 368,
+			"764:5": 560
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 464,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 368,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 560,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:308",
+		"name": "Narrow grid/8 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 304,
+			"764:3": 624,
+			"764:4": 496,
+			"764:5": 752
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 624,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 496,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 752,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:309",
+		"name": "Narrow grid/12 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 304,
+			"764:3": 464,
+			"764:4": 752,
+			"764:5": 1136
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 304,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 464,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 752,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 1136,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:310",
+		"name": "Condensed grid/2 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 80,
+			"764:3": 160,
+			"764:4": 128,
+			"764:5": 192
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 80,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 160,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 128,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 192,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:311",
+		"name": "Condensed grid/4 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 320,
+			"764:4": 256,
+			"764:5": 384
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 384,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:312",
+		"name": "Condensed grid/6 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 240,
+			"764:3": 480,
+			"764:4": 384,
+			"764:5": 576
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 480,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 384,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 576,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:313",
+		"name": "Condensed grid/8 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 640,
+			"764:4": 512,
+			"764:5": 768
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 640,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 512,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 768,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:314",
+		"name": "Condensed grid/12 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 480,
+			"764:4": 768,
+			"764:5": 1152
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 480,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 768,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 1152,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:315",
+		"name": "Nested grid/2 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:316",
+		"name": "Nested grid/4 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:317",
+		"name": "Nested grid/6 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:318",
+		"name": "Nested grid/8 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:319",
+		"name": "Nested grid/12 column width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:320",
+		"name": "Wide grid/Aside left spacer",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 224,
+			"764:5": 352
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 352,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:321",
+		"name": "Narrow grid/Aside left spacer",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 240,
+			"764:5": 368
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 368,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:322",
+		"name": "Condensed grid/Aside left spacer",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 256,
+			"764:5": 384
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 384,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:323",
+		"name": "Nested grid/Aside left spacer width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:324",
+		"name": "Wide grid/Aside left spacer max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 224,
+			"764:5": 352
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 352,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:325",
+		"name": "Wide grid/Aside left spacer min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 224,
+			"764:5": 352
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 224,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 352,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:326",
+		"name": "Narrow grid/Aside left spacer min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 240,
+			"764:5": 368
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 368,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:327",
+		"name": "Narrow grid/Aside left spacer max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 240,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 240,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:328",
+		"name": "Condensed grid/Aside left spacer min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 256,
+			"764:5": 384
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 384,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:329",
+		"name": "Condensed grid/Aside left spacer max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 256,
+			"764:5": 384
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 256,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 384,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:330",
+		"name": "Nested grid/Aside left spacer min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:331",
+		"name": "Nested grid/Aside left spacer max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:332",
+		"name": "Aside left",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": false,
+			"764:3": false,
+			"764:4": true,
+			"764:5": true
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": true,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:333",
+		"name": "Wide grid/Left end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:250"
+			},
+			"764:3": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:250"
+			},
+			"764:4": 288,
+			"764:5": 424
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": "VariableID:764:250",
+				"aliasName": "Wide grid/Left end-margin"
+			},
+			"764:3": {
+				"resolvedValue": 16,
+				"alias": "VariableID:764:250",
+				"aliasName": "Wide grid/Left end-margin"
+			},
+			"764:4": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 424,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:334",
+		"name": "Wide grid/Right end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:251"
+			},
+			"764:3": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:251"
+			},
+			"764:4": 288,
+			"764:5": 424
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": "VariableID:764:251",
+				"aliasName": "Wide grid/Right end-margin"
+			},
+			"764:3": {
+				"resolvedValue": 16,
+				"alias": "VariableID:764:251",
+				"aliasName": "Wide grid/Right end-margin"
+			},
+			"764:4": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 424,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:335",
+		"name": "Narrow grid/Left end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:254"
+			},
+			"764:3": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:254"
+			},
+			"764:4": 272,
+			"764:5": 408
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": "VariableID:764:254",
+				"aliasName": "Narrow grid/Left end-margin"
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": "VariableID:764:254",
+				"aliasName": "Narrow grid/Left end-margin"
+			},
+			"764:4": {
+				"resolvedValue": 272,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 408,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:336",
+		"name": "Narrow grid/Right end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:255"
+			},
+			"764:3": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:255"
+			},
+			"764:4": 288,
+			"764:5": 424
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": "VariableID:764:255",
+				"aliasName": "Narrow grid/Right end-margin"
+			},
+			"764:3": {
+				"resolvedValue": 16,
+				"alias": "VariableID:764:255",
+				"aliasName": "Narrow grid/Right end-margin"
+			},
+			"764:4": {
+				"resolvedValue": 288,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 424,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:337",
+		"name": "Condensed grid/Left end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:258"
+			},
+			"764:3": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:258"
+			},
+			"764:4": 272,
+			"764:5": 408
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": "VariableID:764:258",
+				"aliasName": "Condensed grid/Left end-margin"
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": "VariableID:764:258",
+				"aliasName": "Condensed grid/Left end-margin"
+			},
+			"764:4": {
+				"resolvedValue": 272,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 408,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:338",
+		"name": "Condensed grid/Right end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:259"
+			},
+			"764:3": {
+				"type": "VARIABLE_ALIAS",
+				"id": "VariableID:764:259"
+			},
+			"764:4": 272,
+			"764:5": 408
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": "VariableID:764:259",
+				"aliasName": "Condensed grid/Right end-margin"
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": "VariableID:764:259",
+				"aliasName": "Condensed grid/Right end-margin"
+			},
+			"764:4": {
+				"resolvedValue": 272,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 408,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:339",
+		"name": "Nested grid/Left end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:340",
+		"name": "Nested grid/Right end-margin with aside",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": [],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:341",
+		"name": "Wide grid/Number",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 0,
+			"764:4": 0,
+			"764:5": 0
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 0,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:342",
+		"name": "Modal min-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 320,
+			"764:3": 608,
+			"764:4": 864,
+			"764:5": 1120
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 320,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 608,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 864,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 1120,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:343",
+		"name": "Modal max-width",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 671,
+			"764:3": 608,
+			"764:4": 864,
+			"764:5": 1120
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 671,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 608,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 864,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 1120,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:344",
+		"name": "Modal text margin right",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 0,
+			"764:3": 121.5999984741211,
+			"764:4": 172.8000030517578,
+			"764:5": 224
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 0,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 121.5999984741211,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 172.8000030517578,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 224,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:345",
+		"name": "Hide on SM",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": false,
+			"764:3": true,
+			"764:4": true,
+			"764:5": true
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": true,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:346",
+		"name": "Hide on MD",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": true,
+			"764:3": false,
+			"764:4": true,
+			"764:5": true
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": true,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:347",
+		"name": "Hide on LG",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": true,
+			"764:3": true,
+			"764:4": false,
+			"764:5": true
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": true,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:348",
+		"name": "Hide on Max",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": true,
+			"764:3": true,
+			"764:4": true,
+			"764:5": false
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": false,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:349",
+		"name": "Show on SM",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": true,
+			"764:3": false,
+			"764:4": false,
+			"764:5": false
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": false,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:350",
+		"name": "Show on MD",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": false,
+			"764:3": false,
+			"764:4": false,
+			"764:5": false
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": false,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:351",
+		"name": "Show on LG",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": false,
+			"764:3": false,
+			"764:4": true,
+			"764:5": false
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": false,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:352",
+		"name": "Show on Max",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": false,
+			"764:3": false,
+			"764:4": false,
+			"764:5": true
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": true,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:353",
+		"name": "Hide MD and below",
+		"description": "",
+		"type": "BOOLEAN",
+		"valuesByMode": {
+			"764:2": false,
+			"764:3": false,
+			"764:4": true,
+			"764:5": true
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": false,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": true,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": true,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:354",
+		"name": "Columns",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 4,
+			"764:3": 8,
+			"764:4": 16,
+			"764:5": 16
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 4,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 8,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 16,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": false,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:764:355",
+		"name": "End margins",
+		"description": "",
+		"type": "FLOAT",
+		"valuesByMode": {
+			"764:2": 16,
+			"764:3": 32,
+			"764:4": 32,
+			"764:5": 40
+		},
+		"resolvedValuesByMode": {
+			"764:2": {
+				"resolvedValue": 16,
+				"alias": null
+			},
+			"764:3": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:4": {
+				"resolvedValue": 32,
+				"alias": null
+			},
+			"764:5": {
+				"resolvedValue": 40,
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}]
+}

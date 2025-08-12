@@ -1,0 +1,121 @@
+Sure, here's the naming tree for variable collection formatted to look like a directory structure:
+
+```
+├── Breakpoints
+│   ├── Viewport Sizes
+│   │   ├── Viewport/Desktop
+│   │   ├── Viewport/Mobile
+│   │   └── Viewport/Tablet
+├── Typography
+│   ├── Headings
+│   │   ├── Typography/Heading/H1
+│   │   ├── Typography/Heading/H2
+│   │   └── Typography/Heading/H3
+│   ├── Subheadings
+│   │   ├── Typography/Subheading/Subhead-01
+│   │   └── Typography/Subheading/Subhead-02
+│   ├── Body Text
+│   │   ├── Typography/Body/Body-Regular
+│   │   ├── Typography/Body/Body-Medium
+│   │   └── Typography/Body/Body-Bold
+│   ├── Buttons
+│   │   ├── Typography/Button/Button-Primary
+│   │   └── Typography/Button/Button-Secondary
+│   ├── Footnotes
+│   │   └── Typography/Footnote
+│   ├── Hero Text
+│   │   └── Typography/Hero
+│   ├── ISI
+│       ├── Typography/ISI/ISI-Heading
+│       ├── Typography/ISI/ISI-Subheading
+│       └── Typography/ISI/ISI-Body
+├── Radius
+│   ├── Button Radius
+│   │   ├── Radius/Button/Small
+│   │   ├── Radius/Button/Medium
+│   │   └── Radius/Button/Large
+│   ├── Shape Radius
+│       ├── Radius/Shapes/Small
+│       ├── Radius/Shapes/Medium
+│       └── Radius/Shapes/Large
+├── General
+│   ├── Padding
+│   │   ├── General/Padding/Small
+│   │   ├── General/Padding/Medium
+│   │   └── General/Padding/Large
+│   ├── Spacing
+│       ├── General/Spacing/Small
+│       ├── General/Spacing/Medium
+│       └── General/Spacing/Large
+├── Spacing
+│   ├── Small Spacing
+│   │   ├── Spacing/4px
+│   │   ├── Spacing/8px
+│   │   └── Spacing/12px
+│   ├── Medium Spacing
+│   │   ├── Spacing/16px
+│   │   ├── Spacing/20px
+│   │   └── Spacing/24px
+│   ├── Large Spacing
+│       ├── Spacing/32px
+│       ├── Spacing/40px
+│       ├── Spacing/48px
+│       ├── Spacing/56px
+│       ├── Spacing/64px
+│       ├── Spacing/80px
+│       └── Spacing/100px
+├── Margins
+│   ├── Top Margins
+│   │   ├── Margins/Top/Small
+│   │   ├── Margins/Top/Medium
+│   │   └── Margins/Top/Large
+│   ├── Bottom Margins
+│   │   ├── Margins/Bottom/Small
+│   │   ├── Margins/Bottom/Medium
+│   │   └── Margins/Bottom/Large
+│   ├── Left Margins
+│   │   ├── Margins/Left/Small
+│   │   ├── Margins/Left/Medium
+│   │   └── Margins/Left/Large
+│   ├── Right Margins
+│   │   ├── Margins/Right/Small
+│   │   ├── Margins/Right/Medium
+│   │   └── Margins/Right/Large
+│   ├── Combined Margins
+│       ├── Margins/TopBottom/Small
+│       ├── Margins/TopBottom/Medium
+│       ├── Margins/TopBottom/Large
+│       ├── Margins/LeftRight/Small
+│       ├── Margins/LeftRight/Medium
+│       ├── Margins/LeftRight/Large
+│       ├── Margins/AllSides/Small
+│       ├── Margins/AllSides/Medium
+│       └── Margins/AllSides/Large
+├── Colors
+│   ├── Typography Colors
+│   │   ├── Colors/Typography/Primary
+│   │   ├── Colors/Typography/Secondary
+│   │   ├── Colors/Typography/Accent
+│   │   ├── Colors/Typography/ISI
+│   │   └── Colors/Typography/Muted
+│   ├── Button Colors
+│   │   ├── Colors/Button/Primary
+│   │   ├── Colors/Button/Secondary
+│   │   └── Colors/Button/Tertiary
+│   ├── CTA Colors
+│   │   ├── Colors/CTA/Primary
+│   │   ├── Colors/CTA/Secondary
+│   │   └── Colors/CTA/Hover
+│   ├── Background Colors
+│   │   ├── Colors/Background/Primary
+│   │   ├── Colors/Background/Secondary
+│   │   └── Colors/Background/Accent
+│   ├── Component Colors
+│   │   ├── Colors/Component/Primary
+│   │   ├── Colors/Component/Secondary
+│   │   └── Colors/Component/Accent
+│   ├── Vector Colors
+│       ├── Colors/Vector/Primary
+│       ├── Colors/Vector/Secondary
+│       └── Colors/Vector/Accent
+```

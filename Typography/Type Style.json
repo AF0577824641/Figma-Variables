@@ -1,0 +1,281 @@
+{
+	"id": "VariableCollectionId:5033:59",
+	"name": "Type Style",
+	"modes": {
+		"5033:6": "Mode 1"
+	},
+	"variableIds": ["VariableID:5033:60", "VariableID:5033:64", "VariableID:5033:65", "VariableID:5033:66", "VariableID:5033:67", "VariableID:5033:68", "VariableID:5033:70", "VariableID:5033:107", "VariableID:5033:73", "VariableID:5033:74", "VariableID:5033:75", "VariableID:5033:76", "VariableID:5033:77", "VariableID:5033:78", "VariableID:5033:79", "VariableID:5033:108"],
+	"variables": [{
+		"id": "VariableID:5033:60",
+		"name": "Normal/100 Thin",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Thin"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Thin",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:64",
+		"name": "Normal/200 ExtraLight",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "ExtraLight"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "ExtraLight",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:65",
+		"name": "Normal/300 Light",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Light"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Light",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:66",
+		"name": "Normal/400 Regular",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Regular"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Regular",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:67",
+		"name": "Normal/500 Medium",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Medium"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Medium",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:68",
+		"name": "Normal/600 SemiBold",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "SemiBold"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "SemiBold",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:70",
+		"name": "Normal/700 Bold",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Bold"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Bold",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:73",
+		"name": "Italic/100 Thin Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Thin Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Thin Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:74",
+		"name": "Italic/200 ExtraLight Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "ExtraLight Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "ExtraLight Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:75",
+		"name": "Italic/300 Light Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Light Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Light Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:76",
+		"name": "Italic/400 Regular Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:77",
+		"name": "Italic/500 Medium Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Medium Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Medium Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:78",
+		"name": "Italic/600 SemiBold Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "SemiBold Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "SemiBold Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:79",
+		"name": "Italic/700 Bold Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "Bold Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "Bold Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:107",
+		"name": "Strong",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "SemiBold"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "SemiBold",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}, {
+		"id": "VariableID:5033:108",
+		"name": "Strong + Italic",
+		"description": "",
+		"type": "STRING",
+		"valuesByMode": {
+			"5033:6": "SemiBold Italic"
+		},
+		"resolvedValuesByMode": {
+			"5033:6": {
+				"resolvedValue": "SemiBold Italic",
+				"alias": null
+			}
+		},
+		"scopes": ["ALL_SCOPES"],
+		"hiddenFromPublishing": true,
+		"codeSyntax": {}
+	}]
+}

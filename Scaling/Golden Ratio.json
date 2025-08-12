@@ -1,0 +1,200 @@
+{
+  "id": "VariableCollectionId:GR:0500",
+  "name": "Golden Ratio (1.618x) (Prefix Superscript Naming)",
+  "modes": {
+    "26090:0": "Golden Ratio (1.618x)"
+  },
+  "variableIds": [
+    "VariableID:GR:0",
+    "VariableID:GR:1",
+    "VariableID:GR:2",
+    "VariableID:GR:3",
+    "VariableID:GR:4",
+    "VariableID:GR:5",
+    "VariableID:GR:6",
+    "VariableID:GR:7",
+    "VariableID:GR:8"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:GR:0",
+      "name": "GR\u2070 (8.0px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 8.0
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 8.0,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:1",
+      "name": "GR\u00b9 (12.94px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 12.94
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 12.94,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:2",
+      "name": "GR\u00b2 (20.94px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 20.94
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 20.94,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:3",
+      "name": "GR\u00b3 (33.89px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 33.89
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 33.89,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:4",
+      "name": "GR\u2074 (54.83px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 54.83
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 54.83,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:5",
+      "name": "GR\u2075 (88.71px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 88.71
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 88.71,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:6",
+      "name": "GR\u2076 (143.54px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 143.54
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 143.54,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:7",
+      "name": "GR\u2077 (232.24px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 232.24
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 232.24,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:GR:8",
+      "name": "GR\u2078 (375.77px)",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "26090:0": 375.77
+      },
+      "resolvedValuesByMode": {
+        "26090:0": {
+          "resolvedValue": 375.77,
+          "alias": null
+        }
+      },
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}
